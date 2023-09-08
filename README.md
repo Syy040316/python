@@ -1,2 +1,1 @@
-# drowsinessDetector
-OpenCV Drowsiness Detector using Python and Dlib
+my first project for python
